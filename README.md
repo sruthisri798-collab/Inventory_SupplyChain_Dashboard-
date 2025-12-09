@@ -1,31 +1,27 @@
-"# Inventory \& Supply Chain Dashboard"
-## Dashboard Visuals
+## Dashboard Visuals ##
+
+1.) Top Row – KPIs
+
+ Total Stock, Low Stock Products, Total Revenue, Top-Selling Product, Total Vendors  
 
 
 
-\### Top Row – KPIs
+2.)Middle Row – Trends & Comparisons
 
-\- Total Stock, Low Stock Products, Total Revenue, Top-Selling Product, Total Vendors  
+Sales Trend Over Time - Line Chart 
 
+Stock per Warehouse - Column Chart  
 
-
-\### Middle Row – Trends \& Comparisons
-
-\- \*\*Sales Trend Over Time\*\* (Line Chart)  
-
-\- \*\*Stock per Warehouse\*\* (Column Chart)  
-
-\- \*\*Top-Selling Products\*\* (Horizontal Bar Chart)  
+Top-Selling Products - Horizontal Bar Chart 
 
 
 
-\### Bottom Row – Breakdown \& Analysis
+3.)Bottom Row – Breakdown & Analysis
 
-\- \*\*Sales by Product Category\*\* (Stacked Column Chart)  
+Sales by Product Category- stacked Column Chart  
 
-\- \*\*Supplier Performance\*\* (Table / Column Chart)  
+Supplier Performance - Table / Column Chart  
 
-\- \*\*Low Stock Products Table\*\* (with conditional formatting)  
-
+Low Stock Products Table 
 
 
